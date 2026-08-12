@@ -64,6 +64,7 @@ Full-stack developer con experiencia liderando equipos y construyendo plataforma
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
+| 🏫 [School Admin ERP](https://github.com/jlaguna553/school-admin-erp-portfolio) | ERP multitenant para instituciones educativas, i18n es/en, schema-per-tenant | Django 5, DRF, PostgreSQL, Next.js 15 |
 | 🎮 [Lord of the Code](https://github.com/jlaguna553/lordofthecode-portfolio) | RPG 2D educativo: acertijos de POO en PHP ejecutados en el navegador con php-wasm | Next.js, Phaser 4, PHP |
 | ⚔️ [Syntaxia](https://github.com/jlaguna553/code-me-portfolio) | RPG Hack & Slash estilo Tibia que enseña programación | Phaser 3, React 18 |
 | 🗼 [Syntaxia Tower](https://github.com/jlaguna553/syntaxia-tower-portfolio) | Tower Defense educativo estilo Clash Royale con editor de código en combate | Phaser 3, Capacitor |
