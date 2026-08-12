@@ -5,7 +5,7 @@
 ### Full-Stack Developer & Technical Lead
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/franciscolaguna)
-[![CV Online](https://img.shields.io/badge/CV%20Online-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)](https://cv-online.jlaguna.workers.dev)
+[![CV Online](https://img.shields.io/badge/CV%20Online-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)](https://cv-online.jlaguna553.workers.dev)
 [![Portafolio](https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://jlaguna553.github.io/portfolio/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jlaguna553@gmail.com)
 
@@ -91,6 +91,6 @@ Full-stack developer con experiencia liderando equipos y construyendo plataforma
 
 Estoy disponible para proyectos freelance: desarrollo web, APIs, microservicios, automatización con IA y más.
 
-**[Contrátame](mailto:jlaguna553@gmail.com)** · **[Ver mi portafolio](https://jlaguna553.github.io/portfolio/)** · **[Mi CV interactivo](https://cv-online.jlaguna.workers.dev)**
+**[Contrátame](mailto:jlaguna553@gmail.com)** · **[Ver mi portafolio](https://jlaguna553.github.io/portfolio/)** · **[Mi CV interactivo](https://cv-online.jlaguna553.workers.dev)**
 
 </div>
